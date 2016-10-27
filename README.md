@@ -1,7 +1,7 @@
 # mathlog
-Компилировать при помощи [https://www.haskell.org/ghc/download](ghc)
+Компилировать при помощи [ghc](https://www.haskell.org/ghc/download "glasgow haskell compiler")
 
-Лучше поставить [https://www.haskell.org/platform/](haskell platform)
+Рекомендуется поставить [haskell platform](https://www.haskell.org/platform/)
 
 Компиляция: ghc -O2 task1
 
