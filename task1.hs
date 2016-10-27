@@ -8,7 +8,7 @@ import Control.Applicative ((<|>))
 import Control.Monad (forM_)
 import System.Environment (getArgs)
 import System.IO (openFile, hClose, hPutStrLn, IOMode (..), hSetEncoding, utf8)
-import System.CPUTime
+--import System.CPUTime
 import Data.Map.Strict (Map)
 import qualified Data.Map.Strict as Map
 
